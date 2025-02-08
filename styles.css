@@ -13,7 +13,7 @@ body{
     padding: 0;
 }
 .catbackground{
-    background-image: url("C:/Users/Mark/Downloads/ANIMALS/CATS/BACKGROUND2.png");
+    background-image: url("LandPictures/Cat/BACKGROUND2.png");
 }
 .catbackground::after{
     content: "";
